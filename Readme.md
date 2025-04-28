@@ -32,3 +32,4 @@ AI 기술과 데이터 설계 및 관리에 관심이 많으며, 새로운 기�
 
 ## 🏆 GitHub Stats
 ![Suyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suyong-Hwang&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suyong-Hwang&layout=compact&theme=tokyonight)
