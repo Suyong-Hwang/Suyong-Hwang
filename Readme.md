@@ -1,7 +1,7 @@
 # 🧑‍💻 황수용 **| Python Developer**
 
 📧 ghkdtndyd122@gmail.com   |   📞 010-3590-0000  
-🌐 [Portfolio](https://yourportfolio.site/)   |   💻 [GitHub](https://github.com/Suyong-Hwang)   |   [이력서](https://www.notion.so/1dc487b85fcc80ad8e09cde99b16e540?pvs=21)
+🌐 [Portfolio](https://yourportfolio.site/)   |    [이력서](https://www.notion.so/1dc487b85fcc80ad8e09cde99b16e540?pvs=21)
 
 ---
 
