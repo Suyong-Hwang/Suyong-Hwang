@@ -24,7 +24,7 @@ AI 기술과 데이터 설계 및 관리에 관심이 많으며, 새로운 기�
 | :--- | :--- |
 | 언어 | Python, JavaScript, SQL |
 | 프레임워크 | Flask, FastAPI |
-| 프론트엔드 | HTML/CSS, JavaScript (Vanilla), React |
+| 프론트엔드 | HTML/CSS, JavaScript (Vanilla), React js|
 | 데이터베이스 | MySQL, MariaDB |
 | 기타 | Git, Linux, Docker, Arduino |
 
